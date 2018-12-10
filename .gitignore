@@ -1,0 +1,7 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+/wheels
+/yolo3/__pycache__
+/model_data/*.h5
+*.h5
